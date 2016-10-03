@@ -1,2 +1,4 @@
 *.out
 obj-*
+test/
+*.log

@@ -11,7 +11,6 @@ else
 CONFIG_ROOT := ../Config
 endif
 include $(CONFIG_ROOT)/makefile.config
-include makefile.rules
 include $(TOOLS_ROOT)/Config/makefile.default.rules
 
 ##############################################################
